@@ -1,0 +1,196 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.nav {
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 80vw;
+}
+
+.navbar li {
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+}
+
+.logo {
+    width: 90px;
+    height: 50px;
+    margin: 0px 20px 0px 10px;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.body {
+    width: 100%;
+    height: 60vh;
+    
+}
+
+.res-card {
+    text-decoration: underline;
+    color: black;
+
+    margin: 10px 20px 10px 20px;
+    width: 200px;
+    height: 210px;
+    overflow: hidden;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid transparent;
+   
+}
+
+.res-card:hover {
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    box-shadow: 0 4px 8px rgba(182, 13, 13, 0.814);
+}
+
+.resimg {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+
+.res-card img {
+    height: 99px;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.body {
+    position: relative;
+}
+
+.funcbtns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 40px 0px 10px;
+}
+
+.res-container {
+    margin-top: 60px;
+    border: 2px solid rgb(185, 36, 20);
+    display: flex;
+    margin: 10px 10px 0px 10px;
+    flex-wrap: wrap;
+    width: 95%;
+}
+
+.filter-btn {
+    text-decoration: none;
+    border: 2px transparent;
+    background-color: rgb(206, 15, 15);
+    color: aliceblue;
+    border-radius: 50px;
+    width: 150px;
+    height: 40px;
+    transition: all 0.5s;
+}
+
+.filter-btn:hover {
+    cursor: pointer;
+    background-color: transparent;
+    color: rgb(206, 15, 15);
+    border: 2px solid rgb(206, 15, 15);
+}
+
+.shimmer-card {
+    margin: 10px 20px 10px 20px;
+    width: 200px;
+    height: 210px;
+    overflow: hidden;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid transparent;
+    background-color: #f0f0f0;
+}
+
+.shimmer-cont {
+    margin-top: 60px;
+    border: 2px solid rgb(185, 36, 20);
+    display: flex;
+    margin: 10px 10px 0px 10px;
+    flex-wrap: wrap;
+    width: 95%;
+}
+
+#login-btn {
+    text-decoration: none;
+    border: 2px transparent;
+    background-color: rgb(206, 15, 15);
+    color: aliceblue;
+    padding: 2px;
+    margin-right: 5px;
+    transition: all 0.5s;
+    border: 2px solid transparent;
+    width: 180px;
+    font-size: 12px;
+}
+
+#login-btn:hover {
+    cursor: pointer;
+    background-color: transparent;
+    color: rgb(206, 15, 15);
+    border: 2px solid rgb(206, 15, 15);
+}
+
+.restaurant-menu {
+   
+    margin: auto;
+    width: 500px;
+    background-color: #f0f0f0;
+
+}
+
+.restaurant-menu h1 {
+    text-align: center;
+}
+
+.res-item-cont ul {
+    list-style: none;
+  
+}
+
+.res-item-cont ul li {
+    margin: 20px;
+}
+
+.user-card {
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.user-card img {
+    width: 100px;
+    margin-right: 15px;
+}
+
+*/
